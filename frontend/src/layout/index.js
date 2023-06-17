@@ -267,7 +267,7 @@ const LoggedInLayout = ({ children }) => {
           >
             {greaterThenSm ? (
               <>
-                Olá <b>{user.name}</b>, Seja bem-vindo.
+                Olá <b>{user.name}</b>, Seja bem-vindo - Painel PulsePlay.
               </>
             ) : (
               user.name
